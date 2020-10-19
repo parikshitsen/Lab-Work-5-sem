@@ -1,6 +1,7 @@
 This repo contain Lab work of 5 Sem.
 There are 4 folders. Each folder contain each work of Lab.
-1. Analysis of Algorithm
-2. Computer Design
-3. Computer Graphics
-4. Advanced Java Lab
+1. Analysis of Algorithm - AOA
+2. Computer Design - Cd
+3. Computer Graphics - CG
+4. Advanced Java Lab - Java
+These all file contain Program Files.
