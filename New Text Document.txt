@@ -1,1 +1,6 @@
 This repo contain Lab work of 5 Sem.
+There are 4 folders. Each folder contain each work of Lab.
+1. Analysis of Algorithm
+2. Computer Design
+3. Computer Graphics
+4. Advanced Java Lab
