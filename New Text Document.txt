@@ -1,7 +1,7 @@
 This repo contain Lab work of 5 Sem.
 There are 4 folders. Each folder contain each work of Lab.
 1. Analysis of Algorithm - AOA
-2. Computer Design - Cd
-3. Computer Graphics - CG
+2. Computer Design - Cd : Computer design is concerned with the determination of what hardware should be used and how the parts should be connected.
+3. Computer Graphics - CG : Computer graphics is the branch of computer science that deals with generating images with the aid of computers.
 4. Advanced Java Lab - Java
 These all file contain Program Files.
